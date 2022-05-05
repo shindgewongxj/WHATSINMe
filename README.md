@@ -1,5 +1,4 @@
 # WHATSINMe
-_$H!NDGEKYUME_
 
 ![](https://raw.githubusercontent.com/shindgewongxj/personalogo/main/personalogo.png)
 
